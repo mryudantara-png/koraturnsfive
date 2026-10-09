@@ -1,0 +1,5 @@
+/* Memastikan aspek rasio video ideal dan background jika feed belum dimuat */
+#video-container {
+    aspect-ratio: 16/9;
+    background-color: #e5e7eb;
+}
